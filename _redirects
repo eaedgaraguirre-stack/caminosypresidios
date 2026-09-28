@@ -1,0 +1,6 @@
+/line /play 301
+/line/correo-del-norte /play 301
+/line/* /play/:splat 301
+/janos /atlas/janos 301
+/celaya /atlas/celaya 301
+/durango /atlas/durango 301
